@@ -1,3 +1,5 @@
+## This is my first real project applying basic programming concepts with Python.
+
 print("Welcome to my first game!")
 
 name = input("What is your name? ")
